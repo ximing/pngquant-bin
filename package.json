@@ -1,6 +1,6 @@
 {
 	"name": "@yeanzhi/pngquant-bin",
-	"version": "5.1.0",
+	"version": "5.1.1",
 	"description": "`pngquant` wrapper that makes it seamlessly available as a local dependency",
 	"license": "MIT",
 	"repository": "imagemin/pngquant-bin",
@@ -47,8 +47,8 @@
 		"pngquant"
 	],
 	"dependencies": {
-		"bin-build": "3.0.0",
-		"bin-wrapper": "4.0.1",
+		"bin-build": "^3.0.0",
+		"bin-wrapper": "^4.0.1",
 		"execa": "^0.10.0",
 		"logalot": "^2.0.0"
 	},
