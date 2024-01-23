@@ -47,8 +47,8 @@
 		"pngquant"
 	],
 	"dependencies": {
-		"bin-build": "^3.0.0",
-		"bin-wrapper": "^4.0.1",
+		"bin-build": "3.0.0",
+		"bin-wrapper": "4.0.1",
 		"execa": "^0.10.0",
 		"logalot": "^2.0.0"
 	},
